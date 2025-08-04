@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://stratiluxtech.com/sitemap.xml
